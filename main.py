@@ -1,4 +1,4 @@
 n=1
 while (n<=5):
-  print("Lāsma")
+  print("Dana")
   n+=1
